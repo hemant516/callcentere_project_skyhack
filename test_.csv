@@ -1,0 +1,6 @@
+call_id,primary_call_reason
+101,Post-Flight
+102,Booking
+103,Checkout
+104,Voluntary Cancel
+105,Mileage Plus
