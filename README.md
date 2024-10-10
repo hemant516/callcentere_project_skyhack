@@ -117,3 +117,8 @@ This chart highlights the customer wait times. Long wait times for certain call 
 
 ## Conclusion
 This analysis provides actionable insights that can help United Airlines optimize their call center operations, reduce customer wait times, and improve agent efficiency. By addressing inefficiencies in both AHT and AST, the airline can enhance customer satisfaction and streamline support processes.
+
+## Contact Information
+For questions or further discussion, please reach out to the project maintainer:
+- **Name**: Hemant Solanki
+- **Email**: hemant.solanki.ug21@nsut.ac.in
